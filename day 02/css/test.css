@@ -1,0 +1,16 @@
+button{
+background-color: aqua;
+font-size: 12pt;
+width: 100pt;
+padding: 12pt;
+font-kerning: auto;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input{
+    background-color: red;
+    height: 72pt;
+    font-size: 48pt;
+    padding: 12pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

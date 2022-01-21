@@ -1,5 +1,5 @@
 const myAlertValue = prompt('What is your name?');
-console.lgo(firtName)
+console.log();(firtName)
 const nameArray 
 myPrompt = myAlertValue;
 const reverseUser = myAlertValue.();
